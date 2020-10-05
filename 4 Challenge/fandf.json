@@ -1,0 +1,38 @@
+var friendsAndFamily = `
+[
+    {
+        "name": "Peter",
+        "image": "img/father.jpg",
+        "relation": "father"
+    },
+    {
+        "name": "Gertrude",
+        "image": "img/mother.jpg",
+        "relation": "mother"
+    },
+    {
+        "name": "Elisabeth",
+        "image": "img/sister.jpg",
+        "relation": "sister"
+    },
+    {
+        "name": "Martin",
+        "image": "img/brother.jpg",
+        "relation": "brother"
+    },
+    {
+        "name": "Gabriel",
+        "image": "img/gabriel.jpg",
+        "relation": "friend"
+    },
+    {
+        "name": "Alex",
+        "image": "img/alex.jpg",
+        "relation": "friend"
+    },
+    {
+        "name": "Christian Berti",
+        "image": "img/berti.jpg",
+        "relation": "friend"
+    }
+]`;
